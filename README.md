@@ -1,5 +1,7 @@
 # CPPI-Algorithm-Backtested-on-Historical-and-Simulated-Data
 
+Data updated on 30 Sep. 2022
+
 A Constant Proportion Portfolio Insurance (CPPI) algorithm which is available for absolute wealth protection and maximum drawdown restriction.
 
   - Backtested the algorithm on historical data where the risky account of CPPI was constructed by Risky Parity Portfolio with three stocks that were loaded through APIs and the safe account as deposits assuming flat interest rates. 
