@@ -1,4 +1,4 @@
-# CPPI-Algorithm-Backtested-on-Historical-and-Simulated-Data
+# CPPI Algorithm Backtested on Historical Data & Monte Carlo Simulation
 
 Data updated on 30 Sep. 2022
 
