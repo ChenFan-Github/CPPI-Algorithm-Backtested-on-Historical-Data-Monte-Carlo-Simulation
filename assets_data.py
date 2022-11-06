@@ -38,7 +38,7 @@ class historical_data(USTradingCalendar, bond):
     """
     def __init__(self):
         self.start_date = '2021-01-01'
-        self.end_date = '2022-09-30'
+        self.end_date = '2022-11-6'
         self.ticker_list = ['TSLA', 'AAPL', 'JPM'] # Randomly selected three stocks as an example
         self.bond = 'U.S. 10Y'
     
