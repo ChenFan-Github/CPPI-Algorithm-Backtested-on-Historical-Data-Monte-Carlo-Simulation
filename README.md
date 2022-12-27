@@ -1,6 +1,6 @@
 # CPPI Algorithm Backtested on Historical Data & Monte Carlo Simulation
 
-Data updated on 6 Nov. 2022
+Data updated on 27 Dec. 2022
 
 A Constant Proportion Portfolio Insurance (CPPI) algorithm which is available for absolute wealth protection and maximum drawdown restriction.
 
